@@ -1,0 +1,14 @@
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\obj\Debug\net6.0\TesteCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\obj\Debug\net6.0\TesteCase.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\obj\Debug\net6.0\TesteCase.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\obj\Debug\net6.0\TesteCase.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\bin\Debug\net6.0\TesteCase.exe
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\bin\Debug\net6.0\TesteCase.deps.json
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\bin\Debug\net6.0\TesteCase.runtimeconfig.json
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\bin\Debug\net6.0\TesteCase.dll
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\bin\Debug\net6.0\TesteCase.pdb
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\obj\Debug\net6.0\TesteCase.dll
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\obj\Debug\net6.0\refint\TesteCase.dll
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\obj\Debug\net6.0\TesteCase.pdb
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\obj\Debug\net6.0\TesteCase.genruntimeconfig.cache
+C:\Users\Filipe\source\repos\TesteCase\TesteCase\obj\Debug\net6.0\ref\TesteCase.dll
